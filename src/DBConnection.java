@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class DBConnection {
 	// JDBC driver name and database URL
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
-	static final String DB_URL = "jdbc:mysql://localhost/UserDB";
+	static final String DB_URL = "jdbc:mysql://localhost/ttdb";
 	
 	//  Database credentials
 	static final String USER = "root";
